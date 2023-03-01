@@ -9,14 +9,15 @@ El proyecto a desarrollar es una plataforma  e-learning que ofrece cursos de tec
 
 ### Solo subire la parte del backend que fue en la que trabajé como desarrollador. 
 ## Mi trabajo fue: 
-Crear la Arquitectura de Software
-Ayudar a crear modelo-entidad BBDD
-Inicializacion del proyecto, implementacion de dependencias.
-Conexion a Base De Datos
-Creacion de Registro y Login
-Creacion de las primeras APIs Login, Registro, Usuarios.
-Creacion de metodo de pago con Stripe y su API.
-Manejo de base de datos MySQL
+
+ * Crear la Arquitectura de Software
+ * Ayudar a crear modelo-entidad BBDD
+ * Inicializacion del proyecto, implementacion de dependencias.
+ * Conexion a Base De Datos
+ * Creacion de Registro y Login
+ * Creacion de las primeras APIs Login, Registro, Usuarios.
+ * Creacion de metodo de pago con Stripe y su API.
+ * Manejo de base de datos MySQL
 
 
 
