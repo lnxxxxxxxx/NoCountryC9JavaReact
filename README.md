@@ -16,7 +16,9 @@ El proyecto a desarrollar es una plataforma  e-learning que ofrece cursos de tec
  * Conexion a Base De Datos
  * Creacion de Registro y Login
  * Creacion de las primeras APIs Login, Registro, Usuarios.
- * Creacion de metodo de pago con Stripe y su API.
+ * Creacion de metodo de pago con Stripe.
+ * Creacion de API rest de metodo de pago.
+ * Ayudar a hacer los fetchs(axios) y responsive junto con el equipo de front. 
  * Manejo de base de datos MySQL
 
 
