@@ -19,6 +19,7 @@ El proyecto a desarrollar es una plataforma  e-learning que ofrece cursos de tec
  * Creacion de metodo de pago con Stripe.
  * Creacion de API rest de metodo de pago.
  * Ayudar a hacer los fetchs(axios) y responsive junto con el equipo de front. 
+ * Patrones de diseño: Inyeccion de dependencias, SOLID(en la mayor parte del software)
  * Manejo de base de datos MySQL
 
 
